@@ -1,0 +1,17 @@
+<svg>
+  <use id="WristList" href="#tile-list">
+    <use href="#tile-list-header" class="tile-list-item">
+       <text font-size="32" y="10%+30">WATCH IS ON:</text>
+    </use>
+	  <use href="#tile-list-item" class="tile-list-item">
+		  <use id="rightButton" href="#square-button" fill="fb-red" y="$-20">
+			  <set href="#text" attributeName="text-buffer" to="Right Wrist" />
+		  </use>
+	  </use>
+    <use href="#tile-list-item" class="tile-list-item">
+      <use id="leftButton" href="#square-button" fill="fb-yellow" y="$-20">
+        <set href="#text" attributeName="text-buffer" to="Left Wrist" />
+      </use>
+    </use>
+   </use>
+</svg>

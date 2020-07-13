@@ -1,0 +1,22 @@
+<svg>
+  <use id="DominanceList" href="#tile-list">
+    <use href="#tile-list-header" class="tile-list-item">
+       <text font-size="32" y="10%+30">DOMINANT HAND</text>
+    </use>
+	  <use href="#tile-list-item" class="tile-list-item">
+		  <use id="rightyButton" href="#square-button" fill="fb-red" y="$-20">
+			  <set href="#text" attributeName="text-buffer" to="Right Hand" />
+		  </use>
+	  </use>
+    <use href="#tile-list-item" class="tile-list-item">
+      <use id="leftyButton" href="#square-button" fill="fb-yellow" y="$-20">
+        <set href="#text" attributeName="text-buffer" to="Left Hand" />
+      </use>
+    </use>
+    <use href="#tile-list-item" class="tile-list-item">
+      <use id="bothyButton" href="#square-button" fill="fb-green" y="$-20">
+        <set href="#text" attributeName="text-buffer" to="Both Hands" />
+      </use>
+    </use>
+   </use>
+</svg>
