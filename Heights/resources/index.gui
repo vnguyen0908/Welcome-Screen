@@ -1,0 +1,72 @@
+<svg>
+<textarea width="100%" 
+	font-family="System-Regular" fill="white" font-size="40">
+   HEIGHT </textarea>
+<textarea width="100%" 
+	font-family="System-Regular" fill="white" font-size="50" x="30%" y="50%-10">
+   ft </textarea>
+  <textarea width="100%" 
+	font-family="System-Regular" fill="white" font-size="50" x="80%" y="50%-10">
+   in </textarea>
+    <use id="tumbler1" href="#tumblerview" x="5%" y=" 50%-45" >
+   
+      <use id="item0" href="#tumbler-item" class="item">
+      <text id="content"> 4 </text>
+    </use>
+    <use id="item1" href="#tumbler-item" class="item">
+      <text id="content"> 5 </text>
+    </use>
+    <use id="item2" href="#tumbler-item" class="item">
+      <text id="content"> 6 </text>
+    </use>
+    <use id="item3" href="#tumbler-item" class="item">
+      <text id="content">  </text>
+    </use>
+      <use id="item4" href="#tumbler-item" class="item">
+      <text id="content">  </text>
+    </use>
+     </use> 
+    <use id="tumbler2" href="#tumblerview" x="50%" y=" 50%-45">  
+      <use id="item0" href="#tumbler-item" class="item">
+      <text id="content"> 0 </text>
+    </use>
+    <use id="item1" href="#tumbler-item" class="item">
+      <text id="content"> 1 </text>
+    </use>
+    <use id="item2" href="#tumbler-item" class="item">
+      <text id="content"> 2 </text>
+    </use>
+       <use id="item3" href="#tumbler-item" class="item">
+      <text id="content"> 3</text>
+    </use> 
+      <use id="item4" href="#tumbler-item" class="item">
+      <text id="content"> 4 </text>
+    </use> 
+      <use id="item5" href="#tumbler-item" class="item">
+      <text id="content"> 5 </text>
+    </use> 
+      <use id="item6" href="#tumbler-item" class="item">
+      <text id="content"> 6 </text>
+    </use> 
+      <use id="item7" href="#tumbler-item" class="item">
+      <text id="content"> 7 </text>
+    </use>
+       <use id="item8" href="#tumbler-item" class="item">
+      <text id="content"> 8 </text>
+    </use>
+      <use id="item9" href="#tumbler-item" class="item">
+      <text id="content"> 9 </text>
+    </use>
+      <use id="item10" href="#tumbler-item" class="item">
+      <text id="content"> 10 </text>
+    </use>
+      <use id="item11" href="#tumbler-item" class="item">
+      <text id="content"> 11 </text>
+    </use>
+  </use>
+    <use id="btnTR" href="#combo-button-lower-right" fill="fb-pink" opacity="0.8">
+    <set href="combo-button-icon" attributeName="href" to="list.png"/>
+    <set href="combo-button-icon-press" attributeName="href" to="list_press.png"/>
+    <set href="combo-button-stroke" attributeName="display" to="inline"/>
+  </use>
+</svg>

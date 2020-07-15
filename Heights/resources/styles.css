@@ -1,0 +1,9 @@
+.defaultText {
+  font-size: 32;
+  font-family: System-Regular;
+  font-weight: regular;
+  text-length: 32;
+}
+#tumbler12{ }
+.item { height: 80; }
+.item text { font-size: 80; fill: white;   }

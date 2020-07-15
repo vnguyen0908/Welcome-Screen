@@ -1,0 +1,56 @@
+<svg>
+  
+  <textarea
+	font-family="System-Regular" fill="white" font-size="40">
+  TIME </textarea>
+<textarea width="100%" 
+	font-family="System-Regular" fill="white" font-size="50" x="30%" y="50%-12">
+   hr </textarea>
+  <textarea width="100%" 
+	font-family="System-Regular" fill="white" font-size="50" x="85%" y="50%-12">
+   m </textarea>
+    <use id="tumbler1" href="#tumblerview" x="5%" y=" 50%-45" >
+   
+      <use id="item0" href="#tumbler-item" class="item">
+      <text id="content"> 0 </text>
+    </use>
+    <use id="item1" href="#tumbler-item" class="item">
+      <text id="content"> 1 </text>
+    </use>
+    <use id="item2" href="#tumbler-item" class="item">
+      <text id="content"> 2 </text>
+    </use>
+    <use id="item3" href="#tumbler-item" class="item">
+      <text id="content"> 3 </text>
+    </use>
+      <use id="item4" href="#tumbler-item" class="item">
+      <text id="content"> >4 </text>
+      </use>
+     </use> 
+    <use id="tumbler2" href="#tumblerview" x="55%" y=" 50%-45">  
+      <use id="item0" href="#tumbler-item" class="item">
+      <text id="content"> 00 </text>
+    </use>
+    <use id="item1" href="#tumbler-item" class="item">
+      <text id="content"> 05 </text>
+    </use>
+    <use id="item2" href="#tumbler-item" class="item">
+      <text id="content"> 10 </text>
+    </use>
+       <use id="item3" href="#tumbler-item" class="item">
+      <text id="content"> 15 </text>
+    </use> 
+      <use id="item4" href="#tumbler-item" class="item">
+      <text id="content"> 30 </text>
+    </use> 
+      <use id="item5" href="#tumbler-item" class="item">
+      <text id="content"> 45 </text>
+    </use> 
+  </use>
+    <use id="btnTR" href="#combo-button-lower-right" fill="fb-blue" opacity="0.8">
+    <set href="combo-button-icon" attributeName="href" to="list.png"/>
+    <set href="combo-button-icon-press" attributeName="href" to="list_press.png"/>
+    <set href="combo-button-stroke" attributeName="display" to="inline"/>
+  </use>
+</svg>
+
